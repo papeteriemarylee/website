@@ -1,6 +1,6 @@
 /* === Change these colours to match your Squarespace palette === */
 :root{--bg:#faf7f2;--ink:#57543F;--muted:#6f6a63;--accent:#57543F;--header:#57543F;--card:#fff;--line:#e6e0d6;
---serif:'Fraunces',Georgia,serif;--sans:'Karla',system-ui,sans-serif}
+--serif:'Shippori Mincho';--sans:'inter',system-ui,sans-serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 var(--sans)}
 img{max-width:100%;display:block}a{color:inherit}
